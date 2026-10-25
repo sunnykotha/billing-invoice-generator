@@ -1,0 +1,11 @@
+target/
+.idea/
+.vscode/
+*.iml
+.env
+.env.*
+!.env.example
+
+# Temporary development scripts
+/step*.ps1
+/verify-step*.ps1
